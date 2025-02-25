@@ -1,7 +1,7 @@
 # NFlegal
 Welcome to the NFLegal Repo, a resource designed to support founders by providing a range of open-source legal templates. The templates provided in this repository are intended to serve as a starting point for your project, covering various aspects such as governance, partnerships, employment, and more. 
 
-Important Disclaimer:
+**Important Disclaimer**:
 
 The content of this repository does not constitute legal advice. The templates provided are for informational purposes only and should not be considered a substitute for professional legal counsel. Each project's specific circumstances may require unique legal considerations that these templates cannot address comprehensively. 
 
