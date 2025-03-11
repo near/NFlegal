@@ -8,7 +8,7 @@
 | A Cookie Policy is an important legal document that details how a website uses cookies—small data files stored on a user's browser to track activity, remember preferences, and improve user experience. It provides transparency about the types of cookies used, the data they collect, their purpose, duration, and whether third parties have access to this data. A cookie policy may also include instructions on how users can manage or withdraw their consent for cookie usage. A well-crafted cookie policy is not just a legal necessity but also a tool for building user trust and ensuring compliance with global privacy standards.Assumptions: Your company owns and operates the website and all its features. Your company is not based in the EU, UK, Switzerland, or California, but has users there. Your company does not offer financial incentives, sell user data, or share sensitive user data. |
 | :---- |
 
-**Policy template follows on next pag**
+
 
 # **Cookie Policy**
 
