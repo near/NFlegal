@@ -1,0 +1,86 @@
+
+
+| DISCLAIMER: For Informational Purposes Only The Non-Disclosure Agreement template provided is for general informational purposes only and does not constitute legal advice. This template is intended to serve as a starting point for drafting legal documents; however, it may not address your specific circumstances or comply with the laws applicable to your jurisdiction. You should not use this template without first consulting a qualified legal advisor who can tailor it to your unique needs and ensure compliance with relevant laws and regulations. The use of this template does not create an attorney-client relationship between you and the provider of this document. We disclaim all liability for any actions taken or not taken based on the content of this document. Use of this template is at your own risk, and you are solely responsible for ensuring its accuracy, legality, and appropriateness for your purposes.  |
+| :---- |
+
+ 
+
+| A Non-Disclosure Agreement is a crucial legal document designed for situations where two parties (businesses or individuals), are considering a potential business relationship and are willing to share and/or receive sensitive information which parties need to keep confidential. It promotes trust and acts as an additional incentive to maintain the security and confidentiality of any applicable information, documenting each parties rights and obligations regarding the information to be shared.  Assumptions:  The below Non-Disclosure Agreement Template is what we call a Mutual Non-Disclosure Agreement (MNDA), where both parties will share information, and both parties will be obligated to maintain the confidentiality of the agreements The purpose of the MNDA is not to be used in an investment or other acquisition/merger deal, where highly sensitive information regarding the financial or proprietary intellectual property information would be shared. This template is intended solely for the purpose of evaluating a potential business relationship    |
+| :---- |
+
+**MUTUAL NON-DISCLOSURE AGREEMENT (MNDA) TEMPLATE**
+
+This Mutual Confidentiality Agreement (this "**Agreement**"), effective as of the date of the last signature below (the "**Effective Date**"), is entered into by and between **\[INSERT NAME\][^1]** an entity registered and incorporated in **\[COUNTRY OF INCORPORATION\]** with registered number **\[INSERT REGISTRATION NUMBER\],** and registered address at **\[INSERT REGISTERED ADDRESS\]** and **\[INSERT NAME\]** an entity registered and incorporated in **\[COUNTRY OF INCORPORATION\]** with registered number **\[INSERT REGISTRATION NUMBER\],** and registered address at **\[INSERT REGISTERED ADDRESS\]** (together, the "**Parties**", and each, a "**Party**"). 
+
+WHEREAS, in connection with **\[the evaluation of a potential business relationship between the Parties\][^2]** (the "**Purpose**"), the Parties desire to share certain information that is non-public, confidential, or proprietary in nature.
+
+WHEREAS, the Parties wish to protect and preserve the confidentiality of such information.
+
+NOW, THEREFORE, in consideration of the mutual covenants, terms and conditions set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+1. **Confidential Information.** Except as set out in Section 2 below, “**Confidential Information**” means any information of a proprietary or confidential nature (in whatever form or medium) disclosed before, on or after the Effective Date[^3], by either Party (a "**Disclosing Party**") to the other Party (a "**Recipient**") or its Affiliates, or to any of such Recipient's or Affiliates' employees, officers, directors, partners, shareholders, agents, attorneys, accountants, or advisors on a need-to-know basis (collectively, "**Representatives**"), including but not limited to information relating to the business and/or affairs of the Disclosing Party, any information supplied to the Disclosing Party by any third party in relation to which a duty of confidentiality is owed or arises, and any other information which should otherwise be reasonably regarded as possessing a quality of confidence or as having commercial value in relation to the business and/or affairs of the Disclosing Party, whether disclosed orally or disclosed or accessed in written, electronic, or other form of media, and whether or not marked, designated, or otherwise identified as "confidential." "**Affiliate**" means, with respect to any Party, any person or entity that is directly or indirectly Controlling, Controlled by or under common Control with such Party, where "**Control**" and derivative terms mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such person or entity, whether through the ownership of voting securities, by contract, or otherwise.
+
+2. **Exclusions from Confidential Information[^4].** Receiving Party's obligations under this Agreement do not extend to information that is: (a) publicly known at the time of disclosure or subsequently becomes publicly known through no fault of the Receiving Party; (b) discovered or created by the Receiving Party before disclosure by Disclosing Party; (c) learned by the Receiving Party through legitimate means other than from the Disclosing Party or Disclosing Party's representatives; or (d) is disclosed by Receiving Party with Disclosing Party's prior written approval. To the extent that the Receiving Party is required to disclose any Confidential Information pursuant to an order of any court of competent jurisdiction or any regulatory, judicial, governmental or similar body of competent jurisdiction (a “**Compelled Disclosure Request**”), where it is permissible under applicable law in respect of any such Compelled Disclosure Request the Receiving Party shall: (i) as soon as reasonably practicable (and in any event within at least four business days of the date of receipt of the Compelled Disclosure Request by the Receiving Party) provide the Disclosing Party with written notice of the Compelled Disclosure Request so that the Disclosing Party may respond accordingly (and in accordance with applicable laws) including but not limited to the pursuit of a protective order.
+
+3. **Obligations of Receiving Party.** Receiving Party shall, and shall ensure that its Representatives (a) hold and maintain the Confidential Information in strictest confidence for the sole and exclusive benefit of the Disclosing Party; (b) only use the Confidential Information for the Purpose and not make use of the Confidential Information in any way for its account; and (c) shall not disclose any Confidential Information to any person without the prior written consent of the Disclosing Party. The Receiving Party shall ensure that its Representatives who have been given access to the Confidential Information on a need-to-know basis are bound by terms no less restrictive than those of this Agreement. Receiving Party shall promptly return to Disclosing Party any records, notes, and other written, printed, or tangible materials in its possession pertaining to Confidential Information if Disclosing Party requests it in writing. 
+
+4. **Term.[^5]** The non-disclosure provisions of this Agreement shall continue for two years from the date that it is fully executed, after which time it shall automatically expire. The Disclosing Party may provide written confirmation to the Receiving Party releasing the Receiving Party from this Agreement at any time prior to the automatic expiry of this Agreement.
+
+5. **Relationships.** Nothing contained in this Agreement shall be deemed to constitute either party a partner, joint venture or employee of the other party for any purpose. 
+
+6. **Notice of Immunity.** Receiving Party is provided notice that an individual shall not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that is made (i) in confidence to a federal, state, or local government official, either directly or indirectly, or to an attorney; and (ii) solely to report or investigate a suspected violation of law; or is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual (i) files any document containing the trade secret under seal; and (ii) does not disclose the trade secret, except pursuant to a court order. This Agreement and each Party's obligations shall be binding on such party’s representatives, assigns and successors. Each Party has signed this Agreement through its authorized representative. 
+
+7. **Variation**. Any variation of this Agreement shall be effective only if it is in writing and signed by the Parties (or their authorized representatives).
+
+8. **Ownership and Return of Confidential Information and Other Materials[^6].**  As between the parties, the Disclosing Party shall retain all right, title, and interest (including all intellectual property rights) in any and all Confidential Information (and all materials including, without limitation, documents, drawings, papers, storage media, tapes, models, apparatus, sketches, designs, lists, and any other proprietary information of Disclosing Party, whether or not they contain or disclose Confidential Information (collectively, the “Materials”)) disclosed or accessed pursuant to this Agreement. The Confidential Information and/or Materials may be considered a trade secret of the Disclosing Party and no license or other rights to the Confidential Information or Materials is granted or implied hereby. Within five (5) days after any request by the Disclosing Party, the Receiving Party shall, to the extent reasonably possible, destroy (including delete) or deliver to the Disclosing Party, at the Disclosing Party’s option, (a) all materials furnished by the Disclosing Party and/or accessed by the Receiving Party, and (b) all materials in the Receiving Party’s possession or control (even if not furnished by the Disclosing Party) that contain or disclose any of the Confidential Information and/or Materials. Regardless of the delivery or destruction of any Confidential Information and/or Materials required by this Section, any and all duties and obligations existing under this Agreement with respect thereto will remain in full force and effect. Upon request, the Receiving Party shall certify in writing its compliance with this Section.
+
+9. **No Warranty.** All Confidential Information is provided “**AS IS**” and without any warranty, express, implied, or otherwise, regarding any Confidential Information’s completeness, accuracy or performance. The Parties agree that neither the Disclosing Party nor any of the Disclosing Party’s representatives shall have any liability to the Receiving Party or the Receiving Party’s representatives that may result from such Party’s use of the Confidential Information and/or Materials.
+
+10. **Attorney-Client Privilege and Attorney Work-Product.** To the extent that the contents of any Confidential Information are, in whole or in part, subject to attorney-client privilege, the Disclosing Party and its representatives are not waiving, and shall not be deemed to have waived or diminished, any attorney work-product protections, attorney-client privileges, or similar protections and privileges as a result of inadvertently disclosing any Confidential Information (including Confidential Information related to pending or threatened  litigation)  to  Receiving  Party. Once the Disclosing Party or Receiving Party becomes aware of such inadvertent disclosure, it will notify the other Party, and the Receiving Party will promptly return such Confidential Information and destroy any copies thereof. To the extent the Parties dispute the protected status of such Confidential Information, the Receiving Party will not use, share, or distribute such Confidential Information until a court of competent jurisdiction has determined the protected status of the Confidential Information.
+
+11. **No Assignment.**  The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors of the Parties hereto, provided that the parties shall not assign its rights, or delegate any performance, under this Agreement without the prior written consent of the other Party. Any purported assignment of rights or delegation of performance in violation of this Section is void.
+
+12. **Severability.** If a court finds any provision of this Agreement invalid or unenforceable, the remainder of this Agreement shall be interpreted so as best to affect the Parties’ intent.
+
+13. **Entire Agreement.** This Agreement expresses the complete understanding of the Parties with respect to the subject matter and supersedes all prior proposals, agreements, representations, and understandings. 
+
+14. **Waiver.** The failure to exercise any right provided in this Agreement shall not be a waiver of prior or subsequent rights. 
+
+15. **Injunctive Relief and Other Remedies[^7].** A breach of this Agreement will cause irreparable and continuing damage to the Disclosing Party for which money damages are insufficient. The Disclosing Party is entitled to seek injunctive relief, a temporary order restraining any threatened or further breach of this Agreement, a decree for specific performance, and all other relief as may be proper (including money damages if appropriate), without the need to post a bond or, with respect to injunctive relief, without the showing of actual monetary damages in connection with such claim. Such injunctive relief shall not be the exclusive remedy for a breach of this Agreement but will be in addition to all other remedies available at law or equity. The Parties acknowledge and agree that the provisions of this Section are reasonable and fully required to protect the legitimate interests of the Disclosing Party. The Receiving Party shall immediately notify the Disclosing Party of any actual, threatened, or perceived breach of this Agreement and fully cooperate with the Disclosing Party to mitigate the effect of such breach.
+
+16. **Jurisdiction**. This Agreement shall be governed by and construed in accordance with **\[INSERT COUNTRY\]** law, excluding the **\[INSERT COUNTRY\]** conflict of law rules. The application of the United Nations Convention for Contracts for the International Sales of Goods is hereby expressly excluded. Subject to the remainder of this clause, any dispute, controversy or claim arising out of or in connection with this Agreement or the breach, termination, existence, legal competence or invalidity thereof, shall be exclusively settled by the courts of **\[INSERT CITY, COUNTRY\][^8].**
+
+      
+
+
+       Signature:
+
+Name:       
+
+Title:        
+
+
+       Signature: 
+
+Name:
+
+Title:          
+
+                
+
+
+[^1]:  If a party is an individual, as opposed to a business (with a separate legal identity), consider the following format \[INSERT FULL LEGAL NAME\], residing at \[INSERT RESIDENTIAL ADDRESS\] 
+
+[^2]:  Consider refining the purpose of the information disclosure, to better align with your specific goals.
+
+[^3]:  When drafting and reviewing MNDAs, pay attention to how confidential information is defined. Would this cover any confidential information by nature (as opposed to information explicitly marked as confidential)? If confidential information was shared before an MNDA was signed, is this information covered? 
+
+[^4]:  This template MNDA includes the standard exclusions, pay attention to any exclusions beyond those listed, as such information would not be protected under the MNDA. 
+
+[^5]:  Pay attention to the term of the MNDA, and to the term of the confidentiality provision. It is not uncommon to find MNDAs including a disclaimer that the confidentiality obligation survives the term of the Agreement. The term of the Agreement is the period where confidential information may be shared between parties, whereas the term of the confidentiality provisions is the period for which the shared confidential information must remain confidential (and can be longer than the term of the agreement) 
+
+[^6]:  Consider the specifics of your purpose and nature of the confidential information. How would you like your confidential information to be handled at the end of the MNDA? What are your obligations regarding the other party’s confidential information, is it achievable for you? 
+
+[^7]:  Injunctive Relief allows a party to obtain a court order to prevent or stop a breach of confidentiality. It is often favored in the context of MNDAs because it addresses the potential for irreparable harm that monetary damages cannot adequately compensate for.
+
+[^8]:  Consider the governing law and jurisdiction of the MNDA carefully. This will determine which law applies to the MNDA, and which courts will be competent to hear the case. 
