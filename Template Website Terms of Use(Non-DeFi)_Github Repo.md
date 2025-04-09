@@ -21,7 +21,7 @@ A website that acts as a portal to various decentralized apps and other blockcha
 
 Transparency in Service Scope: A Terms of Use can clearly define the company's role (e.g., providing access to tools but not custody over assets) to prevent misunderstandings about its obligations. 
 
-By implementing a comprehensive Terms of Use, the company establishes a legal framework that protects its interests while fostering trust and transparency among users navigating the complex world of decentralised applications. Follow the [User Guide: Drafting Website Terms of Use to help you draft your company’s Terms of Use](https://docs.google.com/document/d/1_ZQlBgEeX75WTc0xh1VwVamzphvi8DKyE51BV1jCXhk/edit?tab=t.0) 
+By implementing a comprehensive Terms of Use, the company establishes a legal framework that protects its interests while fostering trust and transparency among users navigating the complex world of decentralised applications. Follow the [User Guide: Drafting Website Terms of Use to help you draft your company’s Terms of Use](https://github.com/near/NFlegal/blob/8e6f2465bb983e105e8d34531156a407c8601f55/User%20Guide_%20Drafting%20Website%20Terms%20of%20Use_Github%20Repo.md) 
 
 NOTE: always consult with your legal advisor to ensure your company’s Terms of Use is appropriate for your context and covers all the necessary legal considerations specific to you and your company’s circumstances. |
 | :---- |
